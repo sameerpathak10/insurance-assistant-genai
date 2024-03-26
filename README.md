@@ -12,6 +12,7 @@ Demo app for insurance assistant using AWS Bedrock
 -   pip install pypdf
 -   pip install faiss-cpu (depending on Python version).
 -   pip install unstructured
+-   pip install "unstructured[pdf]"
 
 ![alt text](/documents/Architecture.png)
 
