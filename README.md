@@ -13,6 +13,7 @@ Demo app for insurance assistant using AWS Bedrock
 -   pip install faiss-cpu (depending on Python version).
 -   pip install unstructured
 -   pip install "unstructured[pdf]"
+-   Once installation is completed. Execute command  **"streamlit run rag_fronted.py"** is terminal.
 
 ![alt text](/documents/Architecture.png)
 
