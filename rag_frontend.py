@@ -9,7 +9,7 @@ new_title='<p style="font-family:sans-serif; color:Gree; font-size: 42px;">Insur
 st.markdown(new_title, unsafe_allow_html=True)
 
 if 'vector_index' not in st.session_state:
-    with st.spinner("Wait for sometime. Creating Vector store takes time :-"):
+    with st.spinner("Wait for sometime. Creating Vector store takes time. Approximate time 15 mins :-"):
         st.session_state.vector_index = demo.create_index()
 
 input_text = st.text_area("Input text", label_visibility="collapsed")
