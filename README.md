@@ -1,7 +1,7 @@
 # Insurance Assistant Gen-AI
 Demo app for insurance assistant using AWS Bedrock
 
-## Steps to Build and run the application:
+## Steps to build and run the application:
 -   Install and configure AWS toolkit. Create s3 bucket and upload file in it before testing the application.
 -   Anaconda Navigator Download - https://docs.anaconda.com/free/anaconda/install/windows/
 -   Open VS Code from Anaconda Navigator – Very Important
